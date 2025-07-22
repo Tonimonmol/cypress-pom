@@ -1,0 +1,23 @@
+{
+  "name": "cypress-pom",
+  "version": "1.0.0",
+  "description": "practicas julio 2025",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tonimonmol/cypress-pom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tonimonmol/cypress-pom/issues"
+  },
+  "homepage": "https://github.com/Tonimonmol/cypress-pom#readme",
+  "devDependencies": {
+    "cypress": "^14.5.2"
+  }
+}
